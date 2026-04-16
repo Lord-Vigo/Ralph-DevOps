@@ -17,7 +17,7 @@ The HR kb is critical to this whole thing working and is REQUIRED for agents to 
 kb/general/rkp.txt – IF you NEED to give your ai SUDO/ADMINISTRATOR permission, put the password here and ONLY here. FOR THE LOVE OF GODS BE CAREFUL.
 
 
-HOW TO USE THIS.. THING:
+### HOW TO USE THIS.. THING:
 **Script is currently pointed at local files and versioning but can be pointed at Git with ease, just tell the main agent your using git for version control or edit the prompt.md.
 
 1. Put the repo files into the directory you want the project to be created in, DO NOT include any files you don’t want getting sucked up in the process including this readme.
