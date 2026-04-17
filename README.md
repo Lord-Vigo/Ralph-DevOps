@@ -29,7 +29,7 @@ kb/general/rkp.txt – IF you NEED to give your Ai SUDO/ADMINISTRATOR permission
 
 2a. Brain dump your idea into the projectIdea.md file or some other kinda text file, just get the idea out as a starting point.
 
-2b. if you have existing source you want to use as a reference, create directory named refsrc/ in the project directory (next to kb/) and put the source folder(s) in there. If existing source is referenced in your project idea but you do not have it, the agents will acquire it and place it in the refsrc/ directory. If you are continuing with an existing project and are modifying existing source create a src/ direcotry in the main project folder and put the source you are working on in there. 
+2b. if you have existing source you want to use as a reference, create directory named refsrc/ in the project directory (next to kb/) and put the source folder(s) in there. If existing source is referenced in your project idea but you do not have it, the agents will acquire it and place it in the refsrc/ directory. If you are continuing with an existing project and are modifying existing source create a src/ directory in the main project folder and put the source you are working on in there. 
 
 3. Point your harness of choice at the project directory and tell it to “do prompt.md”.
 
