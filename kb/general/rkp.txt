@@ -1,1 +1,0 @@
-# Use this file to pass credentials to the agent if sudo/admin permissions are needed for your project. Just replace this comment with the password and save the file, the LLM will use this file as a reference every time sudo/admin access is needed and the agents forget everything after every loop-through. This is a HIGH RISK file, please be aware.
